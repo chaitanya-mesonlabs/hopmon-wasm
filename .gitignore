@@ -1,0 +1,5 @@
+*.o
+*.obj
+*.wav
+*.dls
+.DS_Store
